@@ -1,1 +1,1 @@
-Teste de primeiro repositório ni github.
+Teste de primeiro repositório no github.
